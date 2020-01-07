@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-05T14:23:09.221Z</updated>
+  <updated>2020-01-07T01:02:38.201Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>aboutme</title>
+    <link href="http://yoursite.com/2020/01/07/aboutme/"/>
+    <id>http://yoursite.com/2020/01/07/aboutme/</id>
+    <published>2020-01-07T01:02:53.245Z</published>
+    <updated>2020-01-07T01:02:38.201Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;关于我们&lt;/p&gt;
+&lt;p&gt;本公司为临沂市联想电脑系列代理商。&lt;/p&gt;
+&lt;p&gt;本公司是一家专业从事智能安防,门禁系统,监控,防盗,考勤一卡通，综合布线，监控系统安装、防盗报警系统安装等弱电工程设计、施工、维护的高科技公司。本公司致力于与客户建立长期的合作关系，为客户提供专业的安
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
